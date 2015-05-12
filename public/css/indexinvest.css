@@ -1,0 +1,83 @@
+.split {
+	min: 0;
+	max: 100;
+	step: 1;
+	width: 10px;
+	value: 0;
+}
+.currentShares {
+	width: 60px;
+}
+
+.allocText {
+	width: 30px;
+}
+
+h3 {
+	text-align: center;
+}
+
+.allocSumRed {
+	color: red;
+}
+
+#couchLogo {
+	background-image: url(/img/logo2.png);
+	background-repeat: no-repeat;
+	background-size: 300px;
+	height: 200px;
+	width: 300px;
+	margin-left: 40%;
+	margin-right: auto;
+	display: block;
+}
+
+.bigbox {
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.investment {
+	padding: 3px;
+}
+
+.totalLabel {
+	margin-top: 5px;
+}
+
+#allocGroup {
+	margin-top: 25px;
+}
+
+.allocRange {
+	margin-top: 10px;
+	margin-left: -20px;
+}
+
+.controlRow {
+	padding: 3px;
+}
+
+#help {
+	float: right;
+}
+
+#page {
+
+}
+
+#investmentList {
+}
+
+#current {
+	border
+}
+
+#help {
+	margin-right: 25%;
+}
+
+.row {
+	border-bottom: 2px;
+}
